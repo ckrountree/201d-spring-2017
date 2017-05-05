@@ -35,7 +35,7 @@ function sum(a,b){ //eslint-disable-line
 // sum (1, 2); // [ 3, "The sum of 1 and 2 is 3."]
 
 // Here is the test for sum(); uncomment it to run it
-testSum(4, 7);
+
 
 
 
